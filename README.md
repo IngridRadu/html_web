@@ -1,2 +1,2 @@
 # html_web
-Link to my website file:///D:/IT/Brainnest/HTML%20Assignments/Marvel%20Movies/index.html
+Link to my website https://github.com/IngridRadu/html_web.git
